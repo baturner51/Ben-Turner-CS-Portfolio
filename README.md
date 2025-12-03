@@ -22,5 +22,6 @@ Loyola University Maryland
 
 ***
 #### Project 3: Week 12 Module 15 Assessment 15 - Student Transcripts (Access)
-- ![Image](link-to-image)
+- ![Image](accesspartone)
+- ![Image](accessparttwo)
 - Write-up here
