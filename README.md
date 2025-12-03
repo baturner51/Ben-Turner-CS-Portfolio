@@ -9,16 +9,16 @@ Loyola University Maryland
 
 ### Projects
 
-#### Project 1: Week 7 Module 9 Assessment 9 - "What Am I Studying?"
+#### Project 1: Week 7 Module 9 Assessment 9 - "What Am I Studying?" (Python)
 - ![Image](link-to-image)
 - Write-up here
 
 ***
-#### Project 2: Week 5 Module 7 Assessment 7 - Excel Inventory Management Continued
+#### Project 2: Week 5 Module 7 Assessment 7 - Inventory Management Continued (Excel)
 - ![Image](link-to-image)
 - Write-up here
 
 ***
-#### Project 3: Week 12 Module 15 Assessment 15 - Microsoft Access Student Transcripts
+#### Project 3: Week 12 Module 15 Assessment 15 - Student Transcripts (Access)
 - ![Image](link-to-image)
 - Write-up here
