@@ -10,12 +10,14 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1: Week 7 Module 9 Assessment 9 - "What Am I Studying?" (Python)
-- ![Image](link-to-image)
+- ![Image](pythoncode.py)
+- ![Image](flowchart.png)
+- ![Image](pseudocode.png)
 - For the first project, the research question given was “What am I studying?” To answer this question, I first wrote in pseudocode the specific layout of the intended final product. Next, I created a flowchart to visualize the sequence of coding events. Lastly, I used several Python print statements to display all 5 of my classes this semester, along with my name and the course’s title _(CS 105-02 Making Sense of Data)_. The result of this project taught me the skill of basic Python print statements, as well as a solid understanding of pseudocode and Python flowcharts.
 
 ***
 #### Project 2: Week 5 Module 7 Assessment 7 - Inventory Management Continued (Excel)
-- ![Image](link-to-image)
+- ![Image](Excel.png)
 - Write-up here
 
 ***
